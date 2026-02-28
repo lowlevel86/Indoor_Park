@@ -3,7 +3,7 @@ Indoor park concept that requires less energy than a typical indoor theme park. 
 
 ![](./indoor_park.jpeg)
 
-* The air is allowed to be hotter or colder than a typical building (heating could be ignored)
+* The air is allowed to be hotter or colder than in a typical building (heating could be ignored)
 * Air is processed using pressure swing absorption and membrane separation technologies
 * The air is kept at the normal 21 percent oxygen levels
 * How the air is conditioned is based on the weather conditions or atmospheric influence
