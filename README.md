@@ -1,7 +1,7 @@
 # Indoor_Park
 This indoor park concept requires much less energy than a typical indoor theme park. This is not a theme park. It is more like a large climate simulator where the air is ultra-processed. Imagine a transporter that could take you to a different climate.
 
-![](./indoor_park.png)
+![](./concept_art/indoor_park.png)
 
 * The air is allowed to be hotter or colder than in a typical building (instead of fighting outdoor conditions)
 * Air is processed using pressure swing absorption and membrane separation technologies
