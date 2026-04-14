@@ -10,3 +10,9 @@ This indoor park concept requires much less energy than a typical indoor theme p
 * The atmosphere can be recorded and played back or resimulated later
 * Plenty of ventilation is used to mitigated inaccurate air processing
 * Safety is sought through redundancy and multi-person upkeep
+___
+![Indoor air is pulled to a sensor array and compared with air pulled from outside using the same sensor.](./concept_art/atmosphere_test.png)
+Indoor air is pulled to a sensor array and compared with air pulled from outside using the same sensor.
+___
+![Exhaust from air processing units is pumped outside.](./concept_art/exhaust.png)
+Exhaust from air processing units is pumped outside.
